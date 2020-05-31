@@ -1,0 +1,4 @@
+rootProject.name='test5_31'
+include ':app'
+include ':frame'
+include ':data'
